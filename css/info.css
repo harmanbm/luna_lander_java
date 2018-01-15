@@ -1,0 +1,61 @@
+body{
+  background-image: url("../img/fondo.png");
+}
+  
+ h1 {
+	 text-align: center;
+ }
+ 
+ p {
+	 text-align: center;
+	 color:white;
+	margin-top:%;
+  font-family: Harlow Solid Italic;
+ }
+  
+#inf1{
+	color:cyan;
+	margin-top:%;
+  font-family: Harlow Solid Italic;
+  padding: 1%;
+}
+
+#inf2{
+	color:cyan;
+	margin-top:%;
+  font-family: Harlow Solid Italic;
+  padding: 1%;
+}
+
+#acerca{
+  font-family: "Calibri", Georgia, Serif;
+  padding: 1%;
+}
+
+.button1{
+	padding: 10px;
+	background-color: green;
+	font-family: 'Liberation Mono';
+	text-decoration: none;
+	color: black;
+	font-size: 40px;
+	
+}
+
+.button2{
+	padding: 10px;
+	background-color: red;
+	font-family: 'Liberation Mono';
+	text-decoration: none;
+	color: black;
+	font-size: 40px;
+}
+
+.button3{
+	padding: 10px;
+	background-color: red;
+	font-family: 'Liberation Mono';
+	text-decoration: none;
+	color: black;
+	font-size: 40px;
+}
