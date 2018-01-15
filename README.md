@@ -3,7 +3,6 @@ Hola, buenas
 
 Aquí puedes probar el juego: https://rawgit.com/harmanbm/luna_lander_java/minimify/index.html
 
-
 ## Descripción del proyecto
 He usado lenguajes css, html y javascript para completar el juego.
 
